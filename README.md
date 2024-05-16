@@ -33,6 +33,6 @@ airflow webserver -p 8080
 
 ## 2. Experimentation of Model Hyperparameters (MLFlow)
 
-In the 'mlflow_part' directory, the notebook 'final_colab_notebook_mlflow.ipynb' has all the code which can be run on Google Colab with a T4 GPU to recreate the training results of this project. The final model we used was the one obtained in the second experiment. We obtained a validation loss of 18.15 (it reduced from 52 to 18.15 over the course of 10 training epochs).
+In the `mlflow_part` directory, the notebook `final_colab_notebook_mlflow.ipynb` has all the code which can be run on Google Colab with a T4 GPU to recreate the training results of this project. The final model we used was the one obtained in the second experiment. We obtained a validation loss of 18.15 (it reduced from 52 to 18.15 over the course of 10 training epochs).
 
 
