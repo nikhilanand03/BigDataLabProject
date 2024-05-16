@@ -4205,3 +4205,10 @@
 [2024-05-17 04:02:30,627] {logging_mixin.py:109} INFO - [2024-05-17 04:02:30,627] {dag.py:2396} INFO - Sync 1 DAGs
 [2024-05-17 04:02:30,631] {logging_mixin.py:109} INFO - [2024-05-17 04:02:30,631] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
 [2024-05-17 04:02:30,635] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds
+[2024-05-17 04:03:40,063] {processor.py:163} INFO - Started process (PID=1410) to work on /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-05-17 04:03:40,063] {processor.py:642} INFO - Processing file /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-05-17 04:03:40,064] {logging_mixin.py:109} INFO - [2024-05-17 04:03:40,064] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-05-17 04:03:40,082] {processor.py:654} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2024-05-17 04:03:40,094] {logging_mixin.py:109} INFO - [2024-05-17 04:03:40,094] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-17 04:03:40,098] {logging_mixin.py:109} INFO - [2024-05-17 04:03:40,098] {dag.py:2935} INFO - Setting next_dagrun for example_complex to None
+[2024-05-17 04:03:40,102] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.039 seconds

@@ -4247,3 +4247,10 @@
 [2024-05-17 04:02:57,870] {logging_mixin.py:109} INFO - [2024-05-17 04:02:57,870] {dag.py:2396} INFO - Sync 1 DAGs
 [2024-05-17 04:02:57,875] {logging_mixin.py:109} INFO - [2024-05-17 04:02:57,875] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2024-05-15T22:32:57.875145+00:00
 [2024-05-17 04:02:57,878] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2024-05-17 04:04:07,136] {processor.py:163} INFO - Started process (PID=1795) to work on /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-17 04:04:07,137] {processor.py:642} INFO - Processing file /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2024-05-17 04:04:07,138] {logging_mixin.py:109} INFO - [2024-05-17 04:04:07,138] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-17 04:04:07,155] {processor.py:654} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py
+[2024-05-17 04:04:07,164] {logging_mixin.py:109} INFO - [2024-05-17 04:04:07,164] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-17 04:04:07,169] {logging_mixin.py:109} INFO - [2024-05-17 04:04:07,169] {dag.py:2935} INFO - Setting next_dagrun for example_skip_dag to 2024-05-15T22:34:07.169118+00:00
+[2024-05-17 04:04:07,172] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_skip_dag.py took 0.036 seconds

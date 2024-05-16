@@ -4310,3 +4310,10 @@
 [2024-05-17 04:02:46,215] {logging_mixin.py:109} INFO - [2024-05-17 04:02:46,214] {dag.py:2396} INFO - Sync 1 DAGs
 [2024-05-17 04:02:46,219] {logging_mixin.py:109} INFO - [2024-05-17 04:02:46,219] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
 [2024-05-17 04:02:46,223] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.161 seconds
+[2024-05-17 04:03:55,592] {processor.py:163} INFO - Started process (PID=1611) to work on /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-05-17 04:03:55,592] {processor.py:642} INFO - Processing file /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2024-05-17 04:03:55,593] {logging_mixin.py:109} INFO - [2024-05-17 04:03:55,593] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-05-17 04:03:55,618] {processor.py:654} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py
+[2024-05-17 04:03:55,737] {logging_mixin.py:109} INFO - [2024-05-17 04:03:55,737] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-17 04:03:55,742] {logging_mixin.py:109} INFO - [2024-05-17 04:03:55,741] {dag.py:2935} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00
+[2024-05-17 04:03:55,746] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/example_xcom.py took 0.154 seconds
