@@ -1,0 +1,462 @@
+[2024-05-16 12:53:43,626] {processor.py:163} INFO - Started process (PID=86677) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:53:43,626] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:53:43,626] {logging_mixin.py:109} INFO - [2024-05-16 12:53:43,626] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:53:43,649] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:53:43,654] {logging_mixin.py:109} INFO - [2024-05-16 12:53:43,654] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:53:43,661] {logging_mixin.py:109} INFO - [2024-05-16 12:53:43,661] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:53:43,665] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.039 seconds
+[2024-05-16 12:54:49,197] {processor.py:163} INFO - Started process (PID=87835) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:54:49,199] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:54:49,199] {logging_mixin.py:109} INFO - [2024-05-16 12:54:49,199] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:54:49,225] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:54:49,234] {logging_mixin.py:109} INFO - [2024-05-16 12:54:49,234] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:54:49,240] {logging_mixin.py:109} INFO - [2024-05-16 12:54:49,240] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:54:49,243] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.046 seconds
+[2024-05-16 12:55:26,441] {processor.py:163} INFO - Started process (PID=88264) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:55:26,442] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:55:26,442] {logging_mixin.py:109} INFO - [2024-05-16 12:55:26,442] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:55:26,466] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:55:26,475] {logging_mixin.py:109} INFO - [2024-05-16 12:55:26,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:55:26,482] {logging_mixin.py:109} INFO - [2024-05-16 12:55:26,482] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:55:26,485] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 12:56:00,210] {processor.py:163} INFO - Started process (PID=88661) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:56:00,210] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:56:00,211] {logging_mixin.py:109} INFO - [2024-05-16 12:56:00,211] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:56:00,234] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:56:00,243] {logging_mixin.py:109} INFO - [2024-05-16 12:56:00,243] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:56:00,248] {logging_mixin.py:109} INFO - [2024-05-16 12:56:00,248] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:56:00,252] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 12:56:32,659] {processor.py:163} INFO - Started process (PID=89060) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:56:32,659] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:56:32,660] {logging_mixin.py:109} INFO - [2024-05-16 12:56:32,659] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:56:32,682] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:56:32,691] {logging_mixin.py:109} INFO - [2024-05-16 12:56:32,691] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:56:32,696] {logging_mixin.py:109} INFO - [2024-05-16 12:56:32,696] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:56:32,700] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 12:57:06,892] {processor.py:163} INFO - Started process (PID=89477) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:57:06,893] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:57:06,893] {logging_mixin.py:109} INFO - [2024-05-16 12:57:06,893] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:57:06,916] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:57:06,926] {logging_mixin.py:109} INFO - [2024-05-16 12:57:06,926] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:57:06,932] {logging_mixin.py:109} INFO - [2024-05-16 12:57:06,932] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:57:06,937] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 12:57:40,375] {processor.py:163} INFO - Started process (PID=89844) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:57:40,375] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:57:40,375] {logging_mixin.py:109} INFO - [2024-05-16 12:57:40,375] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:57:40,399] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:57:40,409] {logging_mixin.py:109} INFO - [2024-05-16 12:57:40,409] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:57:40,416] {logging_mixin.py:109} INFO - [2024-05-16 12:57:40,416] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:57:40,420] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 12:58:16,634] {processor.py:163} INFO - Started process (PID=90243) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:58:16,634] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:58:16,634] {logging_mixin.py:109} INFO - [2024-05-16 12:58:16,634] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:58:16,657] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:58:16,666] {logging_mixin.py:109} INFO - [2024-05-16 12:58:16,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:58:16,672] {logging_mixin.py:109} INFO - [2024-05-16 12:58:16,672] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:58:16,676] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 12:58:51,235] {processor.py:163} INFO - Started process (PID=90625) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:58:51,235] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:58:51,235] {logging_mixin.py:109} INFO - [2024-05-16 12:58:51,235] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:58:51,259] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:58:51,267] {logging_mixin.py:109} INFO - [2024-05-16 12:58:51,267] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:58:51,272] {logging_mixin.py:109} INFO - [2024-05-16 12:58:51,272] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:58:51,276] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 12:59:26,177] {processor.py:163} INFO - Started process (PID=91057) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:59:26,177] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 12:59:26,177] {logging_mixin.py:109} INFO - [2024-05-16 12:59:26,177] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:59:26,201] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 12:59:26,210] {logging_mixin.py:109} INFO - [2024-05-16 12:59:26,210] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 12:59:26,215] {logging_mixin.py:109} INFO - [2024-05-16 12:59:26,215] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 12:59:26,219] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:00:04,844] {processor.py:163} INFO - Started process (PID=91501) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:00:04,845] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:00:04,846] {logging_mixin.py:109} INFO - [2024-05-16 13:00:04,846] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:00:04,869] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:00:04,877] {logging_mixin.py:109} INFO - [2024-05-16 13:00:04,877] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:00:04,883] {logging_mixin.py:109} INFO - [2024-05-16 13:00:04,883] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:00:04,886] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:00:41,798] {processor.py:163} INFO - Started process (PID=91944) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:00:41,799] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:00:41,800] {logging_mixin.py:109} INFO - [2024-05-16 13:00:41,800] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:00:41,823] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:00:41,832] {logging_mixin.py:109} INFO - [2024-05-16 13:00:41,832] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:00:41,837] {logging_mixin.py:109} INFO - [2024-05-16 13:00:41,837] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:00:41,841] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:01:16,625] {processor.py:163} INFO - Started process (PID=92352) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:01:16,626] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:01:16,626] {logging_mixin.py:109} INFO - [2024-05-16 13:01:16,626] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:01:16,649] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:01:16,658] {logging_mixin.py:109} INFO - [2024-05-16 13:01:16,657] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:01:16,663] {logging_mixin.py:109} INFO - [2024-05-16 13:01:16,663] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:01:16,666] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:01:51,543] {processor.py:163} INFO - Started process (PID=92744) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:01:51,544] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:01:51,545] {logging_mixin.py:109} INFO - [2024-05-16 13:01:51,545] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:01:51,568] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:01:51,577] {logging_mixin.py:109} INFO - [2024-05-16 13:01:51,577] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:01:51,583] {logging_mixin.py:109} INFO - [2024-05-16 13:01:51,582] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:01:51,586] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:02:26,602] {processor.py:163} INFO - Started process (PID=93156) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:02:26,603] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:02:26,603] {logging_mixin.py:109} INFO - [2024-05-16 13:02:26,603] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:02:26,628] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:02:26,637] {logging_mixin.py:109} INFO - [2024-05-16 13:02:26,637] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:02:26,643] {logging_mixin.py:109} INFO - [2024-05-16 13:02:26,643] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:02:26,647] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 13:03:01,489] {processor.py:163} INFO - Started process (PID=93560) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:03:01,490] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:03:01,490] {logging_mixin.py:109} INFO - [2024-05-16 13:03:01,490] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:03:01,514] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:03:01,523] {logging_mixin.py:109} INFO - [2024-05-16 13:03:01,523] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:03:01,529] {logging_mixin.py:109} INFO - [2024-05-16 13:03:01,528] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:03:01,532] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:03:36,205] {processor.py:163} INFO - Started process (PID=94298) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:03:36,206] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:03:36,206] {logging_mixin.py:109} INFO - [2024-05-16 13:03:36,206] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:03:36,229] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:03:36,237] {logging_mixin.py:109} INFO - [2024-05-16 13:03:36,237] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:03:36,243] {logging_mixin.py:109} INFO - [2024-05-16 13:03:36,243] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:03:36,246] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:04:11,860] {processor.py:163} INFO - Started process (PID=94698) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:04:11,861] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:04:11,861] {logging_mixin.py:109} INFO - [2024-05-16 13:04:11,861] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:04:11,884] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:04:11,893] {logging_mixin.py:109} INFO - [2024-05-16 13:04:11,893] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:04:11,899] {logging_mixin.py:109} INFO - [2024-05-16 13:04:11,899] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:04:11,903] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:04:49,187] {processor.py:163} INFO - Started process (PID=95136) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:04:49,188] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:04:49,189] {logging_mixin.py:109} INFO - [2024-05-16 13:04:49,189] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:04:49,213] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:04:49,222] {logging_mixin.py:109} INFO - [2024-05-16 13:04:49,222] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:04:49,228] {logging_mixin.py:109} INFO - [2024-05-16 13:04:49,228] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:04:49,231] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.044 seconds
+[2024-05-16 13:05:30,340] {processor.py:163} INFO - Started process (PID=95644) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:05:30,341] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:05:30,341] {logging_mixin.py:109} INFO - [2024-05-16 13:05:30,341] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:05:30,365] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:05:30,373] {logging_mixin.py:109} INFO - [2024-05-16 13:05:30,373] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:05:30,379] {logging_mixin.py:109} INFO - [2024-05-16 13:05:30,379] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:05:30,382] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:06:10,162] {processor.py:163} INFO - Started process (PID=96119) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:06:10,163] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:06:10,164] {logging_mixin.py:109} INFO - [2024-05-16 13:06:10,164] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:06:10,189] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:06:10,198] {logging_mixin.py:109} INFO - [2024-05-16 13:06:10,198] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:06:10,204] {logging_mixin.py:109} INFO - [2024-05-16 13:06:10,204] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:06:10,208] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.046 seconds
+[2024-05-16 13:06:42,289] {processor.py:163} INFO - Started process (PID=96500) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:06:42,289] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:06:42,290] {logging_mixin.py:109} INFO - [2024-05-16 13:06:42,290] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:06:42,317] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:06:42,326] {logging_mixin.py:109} INFO - [2024-05-16 13:06:42,326] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:06:42,332] {logging_mixin.py:109} INFO - [2024-05-16 13:06:42,332] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:06:42,336] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.047 seconds
+[2024-05-16 13:07:17,149] {processor.py:163} INFO - Started process (PID=96905) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:07:17,150] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:07:17,150] {logging_mixin.py:109} INFO - [2024-05-16 13:07:17,150] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:07:17,173] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:07:17,181] {logging_mixin.py:109} INFO - [2024-05-16 13:07:17,181] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:07:17,187] {logging_mixin.py:109} INFO - [2024-05-16 13:07:17,187] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:07:17,190] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:07:56,022] {processor.py:163} INFO - Started process (PID=97348) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:07:56,024] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:07:56,024] {logging_mixin.py:109} INFO - [2024-05-16 13:07:56,024] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:07:56,047] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:07:56,055] {logging_mixin.py:109} INFO - [2024-05-16 13:07:56,055] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:07:56,061] {logging_mixin.py:109} INFO - [2024-05-16 13:07:56,061] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:07:56,064] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:08:35,618] {processor.py:163} INFO - Started process (PID=97779) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:08:35,618] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:08:35,618] {logging_mixin.py:109} INFO - [2024-05-16 13:08:35,618] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:08:35,642] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:08:35,650] {logging_mixin.py:109} INFO - [2024-05-16 13:08:35,650] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:08:35,656] {logging_mixin.py:109} INFO - [2024-05-16 13:08:35,656] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:08:35,659] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:09:08,755] {processor.py:163} INFO - Started process (PID=98134) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:09:08,756] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:09:08,756] {logging_mixin.py:109} INFO - [2024-05-16 13:09:08,756] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:09:08,780] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:09:08,789] {logging_mixin.py:109} INFO - [2024-05-16 13:09:08,789] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:09:08,794] {logging_mixin.py:109} INFO - [2024-05-16 13:09:08,794] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:09:08,798] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:09:43,831] {processor.py:163} INFO - Started process (PID=98522) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:09:43,832] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:09:43,832] {logging_mixin.py:109} INFO - [2024-05-16 13:09:43,832] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:09:43,855] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:09:43,863] {logging_mixin.py:109} INFO - [2024-05-16 13:09:43,863] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:09:43,869] {logging_mixin.py:109} INFO - [2024-05-16 13:09:43,869] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:09:43,872] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:10:19,937] {processor.py:163} INFO - Started process (PID=98929) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:10:19,938] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:10:19,939] {logging_mixin.py:109} INFO - [2024-05-16 13:10:19,939] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:10:19,962] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:10:19,970] {logging_mixin.py:109} INFO - [2024-05-16 13:10:19,970] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:10:19,976] {logging_mixin.py:109} INFO - [2024-05-16 13:10:19,976] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:10:19,979] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:10:54,403] {processor.py:163} INFO - Started process (PID=99297) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:10:54,404] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:10:54,404] {logging_mixin.py:109} INFO - [2024-05-16 13:10:54,404] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:10:54,427] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:10:54,436] {logging_mixin.py:109} INFO - [2024-05-16 13:10:54,436] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:10:54,441] {logging_mixin.py:109} INFO - [2024-05-16 13:10:54,441] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:10:54,445] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:11:29,306] {processor.py:163} INFO - Started process (PID=99697) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:11:29,306] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:11:29,307] {logging_mixin.py:109} INFO - [2024-05-16 13:11:29,307] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:11:29,331] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:11:29,342] {logging_mixin.py:109} INFO - [2024-05-16 13:11:29,342] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:11:29,348] {logging_mixin.py:109} INFO - [2024-05-16 13:11:29,347] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:11:29,351] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 13:12:04,009] {processor.py:163} INFO - Started process (PID=193) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:12:04,010] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:12:04,010] {logging_mixin.py:109} INFO - [2024-05-16 13:12:04,010] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:12:04,034] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:12:04,043] {logging_mixin.py:109} INFO - [2024-05-16 13:12:04,043] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:12:04,049] {logging_mixin.py:109} INFO - [2024-05-16 13:12:04,049] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:12:04,052] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:12:38,576] {processor.py:163} INFO - Started process (PID=809) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:12:38,576] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:12:38,576] {logging_mixin.py:109} INFO - [2024-05-16 13:12:38,576] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:12:38,601] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:12:38,611] {logging_mixin.py:109} INFO - [2024-05-16 13:12:38,611] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:12:38,618] {logging_mixin.py:109} INFO - [2024-05-16 13:12:38,618] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:12:38,622] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.046 seconds
+[2024-05-16 13:13:19,125] {processor.py:163} INFO - Started process (PID=1327) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:13:19,125] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:13:19,125] {logging_mixin.py:109} INFO - [2024-05-16 13:13:19,125] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:13:19,149] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:13:19,157] {logging_mixin.py:109} INFO - [2024-05-16 13:13:19,157] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:13:19,162] {logging_mixin.py:109} INFO - [2024-05-16 13:13:19,162] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:13:19,165] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:13:59,038] {processor.py:163} INFO - Started process (PID=1791) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:13:59,038] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:13:59,039] {logging_mixin.py:109} INFO - [2024-05-16 13:13:59,039] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:13:59,067] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:13:59,077] {logging_mixin.py:109} INFO - [2024-05-16 13:13:59,077] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:13:59,084] {logging_mixin.py:109} INFO - [2024-05-16 13:13:59,084] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:13:59,087] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.050 seconds
+[2024-05-16 13:14:33,499] {processor.py:163} INFO - Started process (PID=2200) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:14:33,500] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:14:33,500] {logging_mixin.py:109} INFO - [2024-05-16 13:14:33,500] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:14:33,524] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:14:33,533] {logging_mixin.py:109} INFO - [2024-05-16 13:14:33,532] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:14:33,538] {logging_mixin.py:109} INFO - [2024-05-16 13:14:33,538] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:14:33,541] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:15:07,912] {processor.py:163} INFO - Started process (PID=3031) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:15:07,913] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:15:07,918] {logging_mixin.py:109} INFO - [2024-05-16 13:15:07,918] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:15:07,942] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:15:07,952] {logging_mixin.py:109} INFO - [2024-05-16 13:15:07,951] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:15:07,958] {logging_mixin.py:109} INFO - [2024-05-16 13:15:07,958] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:15:07,962] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.050 seconds
+[2024-05-16 13:15:42,407] {processor.py:163} INFO - Started process (PID=3446) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:15:42,408] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:15:42,408] {logging_mixin.py:109} INFO - [2024-05-16 13:15:42,408] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:15:42,435] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:15:42,444] {logging_mixin.py:109} INFO - [2024-05-16 13:15:42,444] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:15:42,451] {logging_mixin.py:109} INFO - [2024-05-16 13:15:42,451] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:15:42,455] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.048 seconds
+[2024-05-16 13:16:16,706] {processor.py:163} INFO - Started process (PID=3873) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:16:16,707] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:16:16,707] {logging_mixin.py:109} INFO - [2024-05-16 13:16:16,707] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:16:16,731] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:16:16,739] {logging_mixin.py:109} INFO - [2024-05-16 13:16:16,739] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:16:16,744] {logging_mixin.py:109} INFO - [2024-05-16 13:16:16,744] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:16:16,748] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:16:51,293] {processor.py:163} INFO - Started process (PID=4293) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:16:51,294] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:16:51,295] {logging_mixin.py:109} INFO - [2024-05-16 13:16:51,295] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:16:51,318] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:16:51,327] {logging_mixin.py:109} INFO - [2024-05-16 13:16:51,326] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:16:51,332] {logging_mixin.py:109} INFO - [2024-05-16 13:16:51,332] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:16:51,335] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:17:30,047] {processor.py:163} INFO - Started process (PID=4720) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:17:30,049] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:17:30,049] {logging_mixin.py:109} INFO - [2024-05-16 13:17:30,049] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:17:30,074] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:17:30,083] {logging_mixin.py:109} INFO - [2024-05-16 13:17:30,083] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:17:30,089] {logging_mixin.py:109} INFO - [2024-05-16 13:17:30,089] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:17:30,093] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.046 seconds
+[2024-05-16 13:18:08,148] {processor.py:163} INFO - Started process (PID=5166) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:18:08,149] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:18:08,150] {logging_mixin.py:109} INFO - [2024-05-16 13:18:08,150] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:18:08,175] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:18:08,184] {logging_mixin.py:109} INFO - [2024-05-16 13:18:08,184] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:18:08,190] {logging_mixin.py:109} INFO - [2024-05-16 13:18:08,190] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:18:08,193] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 13:18:40,257] {processor.py:163} INFO - Started process (PID=5561) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:18:40,258] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:18:40,258] {logging_mixin.py:109} INFO - [2024-05-16 13:18:40,258] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:18:40,280] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:18:40,289] {logging_mixin.py:109} INFO - [2024-05-16 13:18:40,289] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:18:40,294] {logging_mixin.py:109} INFO - [2024-05-16 13:18:40,294] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:18:40,298] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:19:14,718] {processor.py:163} INFO - Started process (PID=5974) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:19:14,718] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:19:14,718] {logging_mixin.py:109} INFO - [2024-05-16 13:19:14,718] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:19:14,743] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:19:14,752] {logging_mixin.py:109} INFO - [2024-05-16 13:19:14,752] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:19:14,757] {logging_mixin.py:109} INFO - [2024-05-16 13:19:14,757] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:19:14,761] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.044 seconds
+[2024-05-16 13:19:48,647] {processor.py:163} INFO - Started process (PID=6358) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:19:48,647] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:19:48,648] {logging_mixin.py:109} INFO - [2024-05-16 13:19:48,647] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:19:48,671] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:19:48,680] {logging_mixin.py:109} INFO - [2024-05-16 13:19:48,680] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:19:48,686] {logging_mixin.py:109} INFO - [2024-05-16 13:19:48,686] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:19:48,690] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:20:23,254] {processor.py:163} INFO - Started process (PID=6769) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:20:23,254] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:20:23,254] {logging_mixin.py:109} INFO - [2024-05-16 13:20:23,254] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:20:23,277] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:20:23,286] {logging_mixin.py:109} INFO - [2024-05-16 13:20:23,286] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:20:23,291] {logging_mixin.py:109} INFO - [2024-05-16 13:20:23,291] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:20:23,295] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:20:55,817] {processor.py:163} INFO - Started process (PID=7170) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:20:55,817] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:20:55,817] {logging_mixin.py:109} INFO - [2024-05-16 13:20:55,817] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:20:55,840] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:20:55,850] {logging_mixin.py:109} INFO - [2024-05-16 13:20:55,849] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:20:55,856] {logging_mixin.py:109} INFO - [2024-05-16 13:20:55,856] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:20:55,860] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:21:31,129] {processor.py:163} INFO - Started process (PID=7578) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:21:31,129] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:21:31,129] {logging_mixin.py:109} INFO - [2024-05-16 13:21:31,129] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:21:31,164] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:21:31,226] {logging_mixin.py:109} INFO - [2024-05-16 13:21:31,226] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:21:31,234] {logging_mixin.py:109} INFO - [2024-05-16 13:21:31,234] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:21:31,238] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.109 seconds
+[2024-05-16 13:22:06,407] {processor.py:163} INFO - Started process (PID=8003) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:22:06,407] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:22:06,408] {logging_mixin.py:109} INFO - [2024-05-16 13:22:06,408] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:22:06,441] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:22:06,452] {logging_mixin.py:109} INFO - [2024-05-16 13:22:06,452] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:22:06,459] {logging_mixin.py:109} INFO - [2024-05-16 13:22:06,459] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:22:06,463] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.056 seconds
+[2024-05-16 13:22:40,686] {processor.py:163} INFO - Started process (PID=8387) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:22:40,686] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:22:40,686] {logging_mixin.py:109} INFO - [2024-05-16 13:22:40,686] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:22:40,709] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:22:40,718] {logging_mixin.py:109} INFO - [2024-05-16 13:22:40,718] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:22:40,725] {logging_mixin.py:109} INFO - [2024-05-16 13:22:40,725] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:22:40,729] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:23:12,447] {processor.py:163} INFO - Started process (PID=8777) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:23:12,448] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:23:12,448] {logging_mixin.py:109} INFO - [2024-05-16 13:23:12,448] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:23:12,474] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:23:12,482] {logging_mixin.py:109} INFO - [2024-05-16 13:23:12,482] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:23:12,488] {logging_mixin.py:109} INFO - [2024-05-16 13:23:12,488] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:23:12,492] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 13:23:47,247] {processor.py:163} INFO - Started process (PID=9190) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:23:47,247] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:23:47,247] {logging_mixin.py:109} INFO - [2024-05-16 13:23:47,247] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:23:47,270] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:23:47,280] {logging_mixin.py:109} INFO - [2024-05-16 13:23:47,280] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:23:47,285] {logging_mixin.py:109} INFO - [2024-05-16 13:23:47,285] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:23:47,289] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:24:21,079] {processor.py:163} INFO - Started process (PID=9570) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:24:21,079] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:24:21,079] {logging_mixin.py:109} INFO - [2024-05-16 13:24:21,079] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:24:21,102] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:24:21,111] {logging_mixin.py:109} INFO - [2024-05-16 13:24:21,110] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:24:21,116] {logging_mixin.py:109} INFO - [2024-05-16 13:24:21,116] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:24:21,120] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:24:55,977] {processor.py:163} INFO - Started process (PID=9991) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:24:55,979] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:24:55,979] {logging_mixin.py:109} INFO - [2024-05-16 13:24:55,979] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:24:56,004] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:24:56,013] {logging_mixin.py:109} INFO - [2024-05-16 13:24:56,013] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:24:56,019] {logging_mixin.py:109} INFO - [2024-05-16 13:24:56,019] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:24:56,023] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 13:25:30,550] {processor.py:163} INFO - Started process (PID=10759) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:25:30,550] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:25:30,551] {logging_mixin.py:109} INFO - [2024-05-16 13:25:30,551] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:25:30,574] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:25:30,583] {logging_mixin.py:109} INFO - [2024-05-16 13:25:30,583] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:25:30,588] {logging_mixin.py:109} INFO - [2024-05-16 13:25:30,588] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:25:30,591] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:26:04,863] {processor.py:163} INFO - Started process (PID=11164) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:26:04,863] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:26:04,863] {logging_mixin.py:109} INFO - [2024-05-16 13:26:04,863] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:26:04,886] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:26:04,895] {logging_mixin.py:109} INFO - [2024-05-16 13:26:04,894] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:26:04,900] {logging_mixin.py:109} INFO - [2024-05-16 13:26:04,900] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:26:04,904] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:26:36,964] {processor.py:163} INFO - Started process (PID=11545) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:26:36,964] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:26:36,964] {logging_mixin.py:109} INFO - [2024-05-16 13:26:36,964] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:26:36,987] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:26:36,995] {logging_mixin.py:109} INFO - [2024-05-16 13:26:36,995] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:26:37,001] {logging_mixin.py:109} INFO - [2024-05-16 13:26:37,001] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:26:37,004] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.040 seconds
+[2024-05-16 13:27:11,503] {processor.py:163} INFO - Started process (PID=11956) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:27:11,505] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:27:11,505] {logging_mixin.py:109} INFO - [2024-05-16 13:27:11,505] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:27:11,528] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:27:11,537] {logging_mixin.py:109} INFO - [2024-05-16 13:27:11,537] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:27:11,542] {logging_mixin.py:109} INFO - [2024-05-16 13:27:11,542] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:27:11,545] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:27:47,229] {processor.py:163} INFO - Started process (PID=12378) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:27:47,230] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:27:47,230] {logging_mixin.py:109} INFO - [2024-05-16 13:27:47,230] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:27:47,254] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:27:47,262] {logging_mixin.py:109} INFO - [2024-05-16 13:27:47,262] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:27:47,267] {logging_mixin.py:109} INFO - [2024-05-16 13:27:47,267] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:27:47,271] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:28:37,355] {processor.py:163} INFO - Started process (PID=12979) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:28:37,356] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:28:37,356] {logging_mixin.py:109} INFO - [2024-05-16 13:28:37,356] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:28:37,381] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:28:37,390] {logging_mixin.py:109} INFO - [2024-05-16 13:28:37,390] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:28:37,396] {logging_mixin.py:109} INFO - [2024-05-16 13:28:37,396] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:28:37,400] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.045 seconds
+[2024-05-16 13:29:18,311] {processor.py:163} INFO - Started process (PID=13447) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:29:18,311] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:29:18,311] {logging_mixin.py:109} INFO - [2024-05-16 13:29:18,311] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:29:18,335] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:29:18,344] {logging_mixin.py:109} INFO - [2024-05-16 13:29:18,343] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:29:18,349] {logging_mixin.py:109} INFO - [2024-05-16 13:29:18,349] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:29:18,353] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:29:52,239] {processor.py:163} INFO - Started process (PID=13880) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:29:52,240] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:29:52,240] {logging_mixin.py:109} INFO - [2024-05-16 13:29:52,240] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:29:52,263] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:29:52,272] {logging_mixin.py:109} INFO - [2024-05-16 13:29:52,272] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:29:52,277] {logging_mixin.py:109} INFO - [2024-05-16 13:29:52,277] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:29:52,281] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.042 seconds
+[2024-05-16 13:30:26,443] {processor.py:163} INFO - Started process (PID=14294) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:30:26,443] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:30:26,443] {logging_mixin.py:109} INFO - [2024-05-16 13:30:26,443] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:30:26,466] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:30:26,475] {logging_mixin.py:109} INFO - [2024-05-16 13:30:26,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:30:26,480] {logging_mixin.py:109} INFO - [2024-05-16 13:30:26,480] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:30:26,484] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:31:01,741] {processor.py:163} INFO - Started process (PID=14713) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:31:01,742] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:31:01,742] {logging_mixin.py:109} INFO - [2024-05-16 13:31:01,742] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:31:01,765] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:31:01,775] {logging_mixin.py:109} INFO - [2024-05-16 13:31:01,775] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:31:01,781] {logging_mixin.py:109} INFO - [2024-05-16 13:31:01,781] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:31:01,785] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.044 seconds
+[2024-05-16 13:31:38,028] {processor.py:163} INFO - Started process (PID=15151) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:31:38,028] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:31:38,029] {logging_mixin.py:109} INFO - [2024-05-16 13:31:38,029] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:31:38,052] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:31:38,060] {logging_mixin.py:109} INFO - [2024-05-16 13:31:38,060] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:31:38,066] {logging_mixin.py:109} INFO - [2024-05-16 13:31:38,066] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:31:38,069] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
+[2024-05-16 13:32:12,735] {processor.py:163} INFO - Started process (PID=15563) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:32:12,735] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:32:12,735] {logging_mixin.py:109} INFO - [2024-05-16 13:32:12,735] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:32:12,760] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:32:12,768] {logging_mixin.py:109} INFO - [2024-05-16 13:32:12,768] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:32:12,774] {logging_mixin.py:109} INFO - [2024-05-16 13:32:12,774] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:32:12,778] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.043 seconds
+[2024-05-16 13:32:46,877] {processor.py:163} INFO - Started process (PID=15988) to work on /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:32:46,877] {processor.py:642} INFO - Processing file /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py for tasks to queue
+[2024-05-16 13:32:46,877] {logging_mixin.py:109} INFO - [2024-05-16 13:32:46,877] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:32:46,900] {processor.py:654} INFO - DAG(s) dict_keys(['task1_dag2']) retrieved from /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py
+[2024-05-16 13:32:46,908] {logging_mixin.py:109} INFO - [2024-05-16 13:32:46,908] {dag.py:2396} INFO - Sync 1 DAGs
+[2024-05-16 13:32:46,914] {logging_mixin.py:109} INFO - [2024-05-16 13:32:46,913] {dag.py:2935} INFO - Setting next_dagrun for task1_dag2 to 2024-05-15 00:00:00+00:00
+[2024-05-16 13:32:46,917] {processor.py:171} INFO - Processing /Users/nikhilanand/BigDataLabProject/dags/be20b022_task1_dag.py took 0.041 seconds
