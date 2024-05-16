@@ -8,3 +8,5 @@ data/val_15.csv
 data/val_new.csv
 
 modelling/
+
+logs/

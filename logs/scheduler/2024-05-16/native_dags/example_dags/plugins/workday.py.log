@@ -203,3 +203,13 @@
 [2024-05-16 13:32:50,424] {logging_mixin.py:109} INFO - [2024-05-16 13:32:50,424] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
 [2024-05-16 13:32:50,436] {processor.py:656} WARNING - No viable dags retrieved from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
 [2024-05-16 13:32:50,437] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2024-05-16 13:33:59,078] {processor.py:163} INFO - Started process (PID=17345) to work on /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-16 13:33:59,078] {processor.py:642} INFO - Processing file /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-05-16 13:33:59,078] {logging_mixin.py:109} INFO - [2024-05-16 13:33:59,078] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-16 13:33:59,090] {processor.py:656} WARNING - No viable dags retrieved from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-16 13:33:59,091] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
+[2024-05-16 13:35:08,353] {processor.py:163} INFO - Started process (PID=18570) to work on /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-16 13:35:08,354] {processor.py:642} INFO - Processing file /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-05-16 13:35:08,354] {logging_mixin.py:109} INFO - [2024-05-16 13:35:08,354] {dagbag.py:500} INFO - Filling up the DagBag from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-16 13:35:08,366] {processor.py:656} WARNING - No viable dags retrieved from /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py
+[2024-05-16 13:35:08,367] {processor.py:171} INFO - Processing /Users/nikhilanand/airflow_venv/lib/python3.9/site-packages/airflow/example_dags/plugins/workday.py took 0.014 seconds
