@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/232789034828000045/5b2a62c01a12422fa74b4bef53addf9c/artifacts
+deleted_time: 1715873568652
+end_time: 1715872114055
+entry_point_name: ''
+experiment_id: '232789034828000045'
+lifecycle_stage: deleted
+run_id: 5b2a62c01a12422fa74b4bef53addf9c
+run_name: autolog1
+run_uuid: 5b2a62c01a12422fa74b4bef53addf9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715870188314
+status: 3
+tags: []
+user_id: nikhilanand

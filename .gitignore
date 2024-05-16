@@ -7,6 +7,13 @@ data/val_4.csv
 data/val_15.csv
 data/val_new.csv
 
-modelling/
+modelling_ref/
+fastapi_ref/
+mlflow_ref/
 
 logs/
+
+mlflow_part/b0.pth.tar
+mlflow_part/b1.pth.tar
+
+final_model_b1.pth.tar
